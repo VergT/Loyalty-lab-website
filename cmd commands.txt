@@ -1,0 +1,12 @@
+cd..- -go back one step
+cd -open folder
+CD\-GO BACK COMPLETELY
+md -create a folder
+dir- list all folders
+ren-renaming files
+del-deleting files
+copy con-creating text files
+rename-rename folder
+rmdir-delete folder
+rmdir /s - delete folder with any files
+cls-clear the screen

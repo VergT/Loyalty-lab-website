@@ -1,0 +1,72 @@
+Types of research
+1) Descreptive research - it includes serveys and facts findings inquiries of diffrent kinds.The major purpose of descreptive research is the decreption of the state of affairs as it exists at present.
+Analytical research on the other hand is the research where by has to use factors or information already available and analyse this to make a critical evaluation of the material.
+2)Applied vs fundamental-Applied research aims at finding a solution for an immediate problem facing a society or a business organisation whereas fundamental research is mainly concerned with generalisation and with the formulation of a theory.
+3)Quantitative vs Qualitative- Quantitative research is based on the measurement of quantity or amount.It is applicable to the phenominalthat can be expressed it terms of quantity.Qualitative research on the other hand is concerned with qualitative phenominal for instance when we are intrested in investigating the reason for human behavior we talk of motivation research which is an important type of qualitative research.
+These type of research aims at discovering the underlying motives and desires using interviews for this purpose.
+4)Conceptial vs Emperical research -Conceptial research is that is related to some abstract idea or theory.It is generally used by philosophers and thinkers to develop new concepts or to enhance existing ones.On the other hand Emperical research relies on experience or observation alone often without due regard for system and theory.It is a databased research coming up with conclusions which are capable of being very find by observation or experiments.
+Emperical research is approriate when proof is sort that certain variables affect other variables in some way.Evidence gathered through experiments or emperical studies today is concidered to be the most powerful tool for given hypothesis.
+5)Other types of research-All other types of research are variation of one or more of the above stated approaches based on either the purpose of research or thr time required to accomplish the research,on the environment in which the research is done or on the bases of some other similiar factor.Based on this we have the following types of research:
+ -One time research or longitudal research - in one research the research is carried on over a confined single time period while in longitudinal the research is carried on over several time periods.
+ -Clinical or the Diagnostic research - This type of research follows case study methods to reach the basic casual relations.Such studies ussually go deep into the causes of things or events using very small samples in very deep probing data gathering devices.
+ -Historical research - This is the research that utilises Historical sources like documents,remainsETC to study events/ideas of the past,including the philosophy of persons and groups at any remote point of time.
+ -Conclusion oriented & Decision Oriented Research - While doing conclusion oriented research, a research is free to pick up a problem re-design the inquiry has he proceeds.In Decision oriented research it is always for the need of a decision maker and researcher in this case is not free to carry out research on his own understanding.Operations research is an example of Decision oriented research since it is a scientific method of providing executive departments with a quantitative bases for decisions regarding operations under their control
+         RESEARCH APPROCHES
+1)Inferential Approach to research is to form a database from which to infur characteristics or relationships of the population.This ussually means survey research where a sample of population is studied or observed to determine its characteristics and it is then inferred that the population as the same xtics.
+2)Experimental approach - it is characterised by much greater control over the research environment and in this case some variables are manipulated to observe their effect on other variables.
+3)Simulation Approach - it invovles the construction  of an artificial environment within whic relevant information & data can be generated.This allows an observation of the dynamic behavior of a system under controlled conditions.
+The term simulation in the context of business and social science applications refers to the operations of a numerical model that represents the structure of a dynamic process,Given the values of the initial conditions,parameters and exogenous variables a simulation is done to represent the behavior of a process over time.
+4)Qualitative Approach - It is concerned with subjective assesment of attitudes,opinions and behaviors.Research in such a situation is a function of thr researchers insite and impressions.Such an approach to research generates results either in non quantitative form or in the form which are not subjected to rigorous quantitative analysis.
+          
+            SIGNIFICANCE/IMPORTANCE OF RESEARCH
+1)Research provides the bases for nearly all govt policiesin the economy - The govt budget relies on the analysis of the needs and desires of the people and on the availability of revenues to meet this needs.Through research we can devise alternative policies and can as well exemine the consiquencies of each of this alternatives.
+2)Helps in solving various operation in planning problems of business and industry.-Operations research and market research along with motivational research are concidered crutial and their results assists in more than one way in bussiness decision making.Market research is the investigation of the structure and development of a market for the purpose of formulated efficient policies for purchasing,production and sales.All these are of great help to people in bussiness who are responsible for taking or making bussiness decisions.
+3)Helps in social science by studying social realationships and seeking answers to various social problems.It provides the interlectual satisfaction of knowing a few deals just for the ske of knowledge and also as practical utility for the social scientist to know f
+4)It helps in scientific and inductive thinking and promotes the development of logical habit of thinking and organisations.The increasingly complex nature of business and govt has focused attention on the use of research in solving operational programs.
+
+-Research methods maybe understood as all the methods/techniques that are used in conduction of a research.
+-At times a distiction is made btw the research method and the research techniques.
+  1)RESEARCH TECHNIQUES - This are behaviours and instruments we use in perfoming research operations.eg. Making observation,recording data,techniques of processing data and the likes.
+  2) RESEARCH METHODS - This are behaviours and instruments used in selecting and constructing a research technique.Generally, The research method is a comparison btw the research techniques and the research methods which sum up to the contaction of a research.
+
+   TYPE                            METHOD                              TECHNIQUES
+1)Library Research       Analysis of historical records      Recording of notes,content analysis,tape & film listening and analysis.
+
+2)Field Research         personal interview                  Interviews uses a detailed scheduled with open and closed questions.
+
+3)                       Telephone survey                    Used as a survey technique forinformation and discerning opinions:May also used as a form of follow up questionairres.
+
+   TYPES OF RESEARCH METHODS GROUPS
+-Research methods are categorised into 3 basic groups:
+1)In the first group we include those methods which are concerned with the collection of data.Data collected arises from the already existing data and is used if the available data are not sufficient to arrive at required solution.
+2)The 2nd consist of statistical Techniques which are used to establishing the relationship btw data and the unknowns.
+-The statistical techniques used may include:Standard Deviation and The co-effient of variation.
+3)The 3rd group consist of those methods which are used to evaluate the accuracy of the result attained.
+        RESEARCH METHODOLOGY-This is a systematically way to solve a research problem.
+-It maybe understood as a Science of studying how research its done scientifically.
+-In it we study the various steps that are adopted by a researcher in studying his research problems along with the logic behind it.
+-It is necessary for the researcher to know not only the research methods or techniques but also the methodology.
+-Researcher not only needs to know to develop certain indices or test on how to calculate the mean,mode,median,standard deviation,co-effiecint of variation or Chi-square,How to apply particular research techniques but they also need to know which of this methods of techniques are relevant and which are not, and what would they mean and indicate and Why.
+-The scupe of research methodology is wider than that of a research method.Thus , when we talk of a research methodology we not only talk about the research method but also the logic behind it ie.The method we use in the context of our research study and explain why we are using a particular methods and technique and not any other method.
+ 
+RESEARCH AND SCIENTIFIC METHOD
+-The term research implies that a researcher is interested in more than a particular results.He is interested in repeatability of the result and their extension to more complicated and their general situations.
+-On the other hand, the philosophy behind to all research methods and techniques although they may vary from one science to another is ussually given the name of scientific method.
+    POSTULATES/ASSUMPTION OF SCIENTIFIC METHOD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
